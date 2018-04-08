@@ -1,0 +1,12 @@
+{
+  "name": "aws-api",
+  "version": "1.0.0",
+  "description": "API endpoint",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.175.0",
+    "request": "^2.85.0",
+    "underscore": "^1.8.3"
+  }
+}
