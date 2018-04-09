@@ -14,6 +14,10 @@ serverless deploy
 
 Grab the corresponding url end point
 
+Feel free to test with my endpoint
+
+    https://pl70ccpryg.execute-api.us-east-1.amazonaws.com/dev/api
+
 Do a POST with
 
     [
